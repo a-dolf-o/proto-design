@@ -1,6 +1,6 @@
-<a name="proto-design"></a>
-
 # ☯ Proto Design
+
+<a name="proto-design"></a>
 
 Welcome to Proto Design!
 
