@@ -2,9 +2,9 @@
 
 Welcome to Proto Design!
 
----
-
 <a name="table-of-contents"></a>
+
+---
 
 <details open>
 
