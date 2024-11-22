@@ -20,6 +20,7 @@ Welcome to Proto Design!
   - [Technology](#technology)
   - [Transportation](#transportation)
   - [Wallet](#wallet)
+  - [Watch](#watch)
 
 </details>
 
@@ -42,6 +43,10 @@ Introducing VIA. Our first gender inclusive everyday backpack and sling designed
 > [Nordace - Organizing Your Everyday Journey: Designing for Your Daily Life](https://nordace.com)
 
 All-In-One Travel Solution. Make traveling twice as easy with our versatile gear, designed to adapt to any journey and keep you always prepared.
+
+> [Tramora - Carry-on Luggage with Laptop Stand and more](https://tramora.com)
+
+Tramora: Redefining travel convenience. Our innovative carry-on luggage is designed to simplify your travels with features such as laptop stand / food tray, ...
 
 > [XD Design: Home](https://xd-design.com)
 
@@ -105,6 +110,10 @@ Momax has continuously adapted and evolved to cater to your charging needs. Our 
 
 防摔手機殼的最佳選擇，犀牛盾RhinoShield防摔iPhone邊框手機殼、防摔背蓋手機殼、個人客製化手機殼、犀牛盾耐衝擊螢幕保護貼。由英國劍橋大學材料團隊開發， ...
 
+> [TORRAS: Phone Cases & Phone Cover & Cell Phone Cases](https://torraslife.com)
+
+Buying high-quality phone cases from our online store, they are meticulously crafted with the finest materials to prevent falls and scratches.
+
 > [UAG: Rugged Cases & Mobile Accessories Built for You To Go Further](https://www.urbanarmorgear.com)
 
 Urban Armor Gear produces the most rugged, lightweight, cases that are drop tested to US Military Specs. Made for iPhones, iPads, MacBooks, Galaxy, ...
@@ -152,6 +161,10 @@ ABOUT. DRILLOG（ドリログ）は、「探究」と「対話」をテーマと
 > [Horizon Helvetica® Max | Precision Tools for Modern Creators](https://www.horizonruler.com)
 
 Horizon Helvetica Max offers enhanced measurement capabilities up to 6 inches, bold and clear markings, and additional tools for creating detailed designs.
+
+> [IRIS – Makers Cabinet](https://www.makerscabinet.com/products/iris)
+
+Iris gives you the freedom to draw circles effortlessly. Enjoy drawing single, concentric, or even shaded circles with its unique moving aperture.
 
 > [Kaweco - Hochwertige Schreibgeräte, Leder&Papier, Store](https://www.kaweco-pen.com)
 
@@ -203,6 +216,18 @@ OUR COLLECTIONS · Sustainable Audio · Mage See-Through Bluetooth Speaker · Dr
 
 Defy reality with Meta Quest. Our MR and VR headsets redefine digital gaming and entertainment. Learn more about Quest 3S, and explore all headsets.
 
+> [Nintendo Switch™ Family - Nintendo - Official Site](https://www.nintendo.com/switch)
+
+Nintendo Switch is the way to play Super Mario Bros.™ Wonder, Mario Kart™ 8 Deluxe, and more games starring Mario and friends.
+
+> [Nothing (international)](https://intl.nothing.tech)
+
+Here at Nothing, we're building a world where tech is fun again. Remember a time where every new product made you excited? We're bringing that back.
+
+> [Stryv](https://stryv.co)
+
+Hassle-free hair and grooming routines without the hefty price tag. Stryv with us one ritual at a time.
+
 > [SwitchBot Official Website - Your Simple Switch to a Smart Home](https://www.switch-bot.com)
 
 Interested in home automation? Use our products to control existing home appliances from your smartphone or using voice commands to make life smarter.
@@ -231,6 +256,10 @@ Honda believes the future of clean transportation is already here and powerfully
 
 ## Wallet
 
+> [Dango Products](https://www.dangoproducts.com)
+
+The World's Most adaptable wallet ... Completely modular with interchangeable parts and adapters. Simply slide adapters on and off the rail system for a rapidly ...
+
 > [Fantom Wallet | Quick Access Minimalist Card Wallets](https://store.fantomwallet.com)
 
 The Fantom Wallet is a minimalist credit card wallet. This modern fan-out wallet will efficiently hold bills, credit cards, and even coins.
@@ -242,6 +271,20 @@ Cascade Wallet is anodized aircraft-grade aluminum offering RFID protection, eas
 > [Paperwallet: Ultra-Slim, Waterproof & Tearproof Minimalist Wallets](https://paperwallet.com)
 
 Explore the slimmest, artist-designed minimalist wallets crafted for superior comfort, durability, and elegance. Made from waterproof, eco-friendly ...
+
+[_back_](#table-of-contents)
+
+---
+
+## Watch
+
+> [Eone | The Bradley Timepiece](https://www.eone-time.com)
+
+Eone created a sleek, modern watch that more people can use — and in more ways. Designed for touch when you can't easily use sight: during a meeting, in a movie ...
+
+> [EONIQ Design – EONIQ DESIGN](https://eoniqdesign.co)
+
+EONIQ DESIGN official web store. We create affordable made to order custom watches powered by high quality Japanese movements.
 
 [_back_](#table-of-contents)
 
