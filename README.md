@@ -278,6 +278,14 @@ Explore the slimmest, artist-designed minimalist wallets crafted for superior co
 
 ## Watch
 
+> [Atowak – COBRA](https://atowak.com/collections/cobra)
+
+The ATOWAK COBRA features a unique revolving satellite hour wheel. Hour indicators on three-wheel arms rotate 120˚ at a time between four sides to indicate ...
+
+> [Atowak – TARANTULA](https://atowak.com/collections/tarantula)
+
+TARANTULA presents a comprehensive display of ATOWAK's satellite wandering hour wheel. This structure ensures precise timekeeping while also creating a unique ...
+
 > [Eone | The Bradley Timepiece](https://www.eone-time.com)
 
 Eone created a sleek, modern watch that more people can use — and in more ways. Designed for touch when you can't easily use sight: during a meeting, in a movie ...
@@ -285,6 +293,22 @@ Eone created a sleek, modern watch that more people can use — and in more ways
 > [EONIQ Design – EONIQ DESIGN](https://eoniqdesign.co)
 
 EONIQ DESIGN official web store. We create affordable made to order custom watches powered by high quality Japanese movements.
+
+> [GENUS DRAGON](https://genuswatches.swiss/press-room-the-year-of-the-dragon)
+
+A graceful, powerful, expressive dragon crafted from 18K gold, like the main components of the movement, revealing not only a full range of horological artistry ...
+
+> [Jacob & Co. | Astronomia Solar Zodiac](https://jacobandco.com/timepieces/astronomia-solar-zodiac)
+
+Astronomia Solar Zodiac's dial represents the 12 Zodiac signs. Its vertical movement spins in 10 minutes, bearing 4 colored, Jacob-cut gemstones.
+
+> [Jacob & Co. | Casino Tourbillon](https://jacobandco.com/timepieces/casino-tourbillon)
+
+Casino Tourbillon showcases a fully functional, wrist-sized roulette table. Made of rose gold and onyx, it's powered by a flying tourbillon movement.
+
+> [Konstantin Chaykin. Russian watches](https://chaykin.ru)
+
+Основана в 2003 году Константином Чайкиным, изобретателем и часовщиком из России. Единственный часовой бренд, который полностью производит в России ...
 
 [_back_](#table-of-contents)
 
