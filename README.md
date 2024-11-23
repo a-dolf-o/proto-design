@@ -294,7 +294,7 @@ Eone created a sleek, modern watch that more people can use — and in more ways
 
 EONIQ DESIGN official web store. We create affordable made to order custom watches powered by high quality Japanese movements.
 
-> [GENUS DRAGON](https://genuswatches.swiss/press-room-the-year-of-the-dragon)
+> [GENUS DRAGON | Genus Watches - Singularity of time](https://genuswatches.swiss/press-room-the-year-of-the-dragon)
 
 A graceful, powerful, expressive dragon crafted from 18K gold, like the main components of the movement, revealing not only a full range of horological artistry ...
 
