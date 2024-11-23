@@ -14,6 +14,7 @@ Welcome to Proto Design!
   - [Backpack](#backpack)
   - [Clothing](#clothing)
   - [Fitness](#fitness)
+  - [Home](#home)
   - [Phone Accessories](#phone-accessories)
   - [Sport](#sport)
   - [Stationery](#stationery)
@@ -62,6 +63,14 @@ BESTSELLERS · Bobby Edge Backpack · Bobby Bizz Anti-theft Backpack & Briefcase
 
 Shop online for Men's Clothing essentials with functional technologies. Wrinkle-Free Shirts, VISDRY Polos, and more. Free shipping to Hong Kong & Singapore.
 
+> [GU / Clothing & Accessories](https://www.gu-global.com)
+
+GU's official online store for fashion. From seasonal trends to basic items, you can find the styles you "want now" at amazing prices.
+
+> [UNIQLO | Women's, Men's and Kids' Clothing & Accessories](https://www.uniqlo.com)
+
+Seamless Down Parka. The stitch-free design prevents cold wind from sneaking in. ... Lightweight warmth with a packable design and it's own carrying pouch.
+
 > [ZARA International | New Collection Online](https://www.zara.com)
 
 Latest trends in clothing for women, men & kids at ZARA online. Find new arrivals, fashion catalogs, collections & lookbooks every week.
@@ -79,6 +88,36 @@ The smallest gym in the world. Handy Gym is a flywheel technology designed for f
 > [Unitree Fitness PUMP - Professional Gym in Your Pocket](https://www.unitree.com/pump)
 
 Ultra-high integration and easy to carry. Weighs only 700 grams, rejuvenate the body anytime, anywhere.
+
+[_back_](#table-of-contents)
+
+---
+
+## Home
+
+> [Evapolar - Cool Yourself With Portable Evaporative Air Coolers](https://evapolar.com)
+
+Evapolar is a family of personal evaporative air coolers.
+
+> [Gingko](https://gingkodesign.com)
+
+OUR COLLECTIONS · Sustainable Audio · Mage See-Through Bluetooth Speaker · Drum Light Bluetooth Speaker · Mini Halo One Bluetooth Speaker · Sculptural Lighting.
+
+> [IKEA | Hej! Welcome to IKEA Global](https://www.ikea.com)
+
+Furniture, home accessories, design ideas and inspiration for big dreams and small budgets. A better everyday life begins at home!
+
+> [MUJI](https://www.muji.com)
+
+MUJI offers a wide variety of good quality items from stationery to household items and apparel.
+
+> [Stryv](https://stryv.co)
+
+Hassle-free hair and grooming routines without the hefty price tag. Stryv with us one ritual at a time.
+
+> [SwitchBot Official Website - Your Simple Switch to a Smart Home](https://www.switch-bot.com)
+
+Interested in home automation? Use our products to control existing home appliances from your smartphone or using voice commands to make life smarter.
 
 [_back_](#table-of-contents)
 
@@ -204,13 +243,9 @@ DJI technology empowers us to see the future of possible. Learn about our consum
 
 Eilik is a new kind of robot with emotional intelligence that brings up a higher level of social interactions between humans and robots.
 
-> [Evapolar - Cool Yourself With Portable Evaporative Air Coolers](https://evapolar.com)
+> [Logitech | Official Online Store](https://www.logitech.com)
 
-Evapolar is a family of personal evaporative air coolers.
-
-> [Gingko](https://gingkodesign.com)
-
-OUR COLLECTIONS · Sustainable Audio · Mage See-Through Bluetooth Speaker · Drum Light Bluetooth Speaker · Mini Halo One Bluetooth Speaker · Sculptural Lighting.
+Discover the innovative world of Logitech and shop everything MX, Keyboards, Mice, Webcams, Headsets, Software, Video Conferencing, and more.
 
 > [Meta Quest MR, VR Headsets & Accessories | Meta Store](https://www.meta.com/quest)
 
@@ -224,13 +259,9 @@ Nintendo Switch is the way to play Super Mario Bros.™ Wonder, Mario Kart™ 8 
 
 Here at Nothing, we're building a world where tech is fun again. Remember a time where every new product made you excited? We're bringing that back.
 
-> [Stryv](https://stryv.co)
+> [Razer | For Gamers. By Gamers.](https://www.razer.com)
 
-Hassle-free hair and grooming routines without the hefty price tag. Stryv with us one ritual at a time.
-
-> [SwitchBot Official Website - Your Simple Switch to a Smart Home](https://www.switch-bot.com)
-
-Interested in home automation? Use our products to control existing home appliances from your smartphone or using voice commands to make life smarter.
+Cutting-edge technology✓ Excellent engineering✓ Sustainable✓ Shop Razer's catalogue of headsets, laptops and tech gear for gaming, work and leisure.
 
 [_back_](#table-of-contents)
 
