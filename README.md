@@ -247,6 +247,10 @@ DJI technology empowers us to see the future of possible. Learn about our consum
 
 Eilik is a new kind of robot with emotional intelligence that brings up a higher level of social interactions between humans and robots.
 
+> [Leica Camera Wetzlar – Official | International](https://leica-camera.com)
+
+Global manufacturer of high-end cameras and lenses, observation, and fine mechanical instruments and high-tech devices of the best standards in imaging ...
+
 > [Logitech | Official Online Store](https://www.logitech.com)
 
 Discover the innovative world of Logitech and shop everything MX, Keyboards, Mice, Webcams, Headsets, Software, Video Conferencing, and more.
@@ -262,6 +266,10 @@ Nintendo Switch is the way to play Super Mario Bros.™ Wonder, Mario Kart™ 8 
 > [Nothing (international)](https://intl.nothing.tech)
 
 Here at Nothing, we're building a world where tech is fun again. Remember a time where every new product made you excited? We're bringing that back.
+
+> [PlayStation® Official Site: Consoles, Games, Accessories & More](https://www.playstation.com)
+
+Play hundreds of incredible PS5, PS4 and classic PlayStation games, and discover epic adventures, unique indies, family favourites, and everything in between.
 
 > [Razer | For Gamers. By Gamers.](https://www.razer.com)
 
