@@ -15,6 +15,7 @@ Welcome to Proto Design!
   - [Clothing](#clothing)
   - [Fitness](#fitness)
   - [Home](#home)
+  - [Outdoor](#outdoor)
   - [Phone Accessories](#phone-accessories)
   - [Sport](#sport)
   - [Stationery](#stationery)
@@ -131,6 +132,20 @@ Interested in home automation? Use our products to control existing home applian
 
 ---
 
+## Outdoor
+
+> [ROAV Eyewear](https://roaveyewear.com)
+
+All our frames come with our patented micro hinge designed to be screwless, lightweight and can take a beating!
+
+> [Victorinox International | Victorinox Homepage](https://www.victorinox.com)
+
+All available products and the best browsing experience in one place. From the makers of the original swiss army knife. Established 1884.
+
+[_back_](#table-of-contents)
+
+---
+
 ## Phone Accessories
 
 > [CASETiFY: Show Your Colors](https://www.casetify.com)
@@ -186,10 +201,6 @@ Nike delivers innovative products, experiences and services to inspire athletes.
 > [On | Swiss Performance Running Shoes & Clothing](https://www.on.com)
 
 Give the gift of movement. Shop our high-performance gifts for runners, hikers and city explorers. Shop now · Explore ...
-
-> [ROAV Eyewear](https://roaveyewear.com)
-
-All our frames come with our patented micro hinge designed to be screwless, lightweight and can take a beating!
 
 [_back_](#table-of-contents)
 
