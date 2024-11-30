@@ -95,6 +95,10 @@ Ultra-high integration and easy to carry. Weighs only 700 grams, rejuvenate the 
 
 ## Home
 
+> [Daiso](https://www.daiso-sangyo.co.jp)
+
+We deliver new discoveries and fun experiences through books and miscellaneous goods. Daiso Products Kansai To achieve impressive prices and impressive quality.
+
 > [Evapolar - Cool Yourself With Portable Evaporative Air Coolers](https://evapolar.com)
 
 Evapolar is a family of personal evaporative air coolers.
