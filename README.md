@@ -216,6 +216,10 @@ Give the gift of movement. Shop our high-performance gifts for runners, hikers a
 
 Hand tool, DIY, screwdriver, Sanding, polishing, engraving, drilling, smart, motion, sports, outdoor, actitivies.
 
+> [DelGuard デルガード｜ゼブラ株式会社](https://www.zebra.co.jp/pro/del_guard)
+
+芯が折れないことで、集中力が途切れず勉強を続けられる「デルガード」、質感が違う2層構造のグリップで長時間握っていられる「デルガード タイプGR」、逆さにするだけで ...
+
 > [DRILLOG](https://drillog.jp)
 
 ABOUT. DRILLOG（ドリログ）は、「探究」と「対話」をテーマとした、 独自の金属インクペンを中心とする筆記具ブランドです。 about.
@@ -255,6 +259,10 @@ think on paper. work in digital. journaling companion. turn handwritings. into s
 > [Page Anchor | The best gift for book lovers](https://www.page-anchor.com)
 
 The Original Anchor Bookmark. Made for journaling, reading, cookbooks & studying. Enables hands-free reading. Fits all book-sizes. Does not damage the book's ...
+
+> [Pentel | ぺんてる株式会社](https://www.pentel.co.jp)
+
+ボールペン、シャープペン、クレヨン、えのぐ、マーカー、修正具などの文具メーカーぺんてる株式会社。商品情報やおすすめ情報を提供しています。
 
 > [PILOT](https://www.pilot.co.jp)
 
