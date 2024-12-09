@@ -236,6 +236,10 @@ Entdecken Sie alles rund um unsere Kaweco Schreibgeräte, Serien, Papier&Leder, 
 
 Shop and view the latest lifestyle products & Japanese stationeries from the official KOKUYO website.KOKUYO began in 1905, since then, our organization has ...
 
+> [KURUTOGA Metal ｜ uni 三菱鉛筆株式会社](https://www.mpuni.co.jp/special/kurutogametal)
+
+芯が回ってトガりつづけるシャープ”のクルトガシリーズから、メタル製のデザインと安定した筆記感が特長の『KURUTOGA Metal』が登場。
+
 > [metacil(メタシル) メタリックカラー - サンスター文具株式会社](https://www.sun-star-st.jp/items/221206114616)
 
 芯の摩耗が著しく少なく、削らなくても長い時間書き続けることができます。筆記に集中できるため、速書きなどにも最適です。
@@ -251,6 +255,14 @@ think on paper. work in digital. journaling companion. turn handwritings. into s
 > [Page Anchor | The best gift for book lovers](https://www.page-anchor.com)
 
 The Original Anchor Bookmark. Made for journaling, reading, cookbooks & studying. Enables hands-free reading. Fits all book-sizes. Does not damage the book's ...
+
+> [PILOT](https://www.pilot.co.jp)
+
+株式会社パイロットコーポレーションは、総合筆記具メーカーとしてお客様に高機能で使いやすい製品をご提供しています。当サイトでは、万年筆、ボールペン、シャープ ...
+
+> [STAEDTLER | Welcome to STAEDTLER](https://www.staedtler.com)
+
+Manufacturer and supplier of writing, painting, drawing and creative products. ✓ Products ✓ Inspiration ✓ Guides ✓ About STAEDTLER ✓ Contact.
 
 [_back_](#table-of-contents)
 
