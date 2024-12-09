@@ -138,6 +138,10 @@ Interested in home automation? Use our products to control existing home applian
 
 All our frames come with our patented micro hinge designed to be screwless, lightweight and can take a beating!
 
+> [TIC Travel Bottles V2.0](https://www.instagram.com/tic_design)
+
+Smart Solution to travel with Skin and Shower Products.
+
 > [Victorinox International | Victorinox Homepage](https://www.victorinox.com)
 
 All available products and the best browsing experience in one place. From the makers of the original swiss army knife. Established 1884.
@@ -227,6 +231,10 @@ Iris gives you the freedom to draw circles effortlessly. Enjoy drawing single, c
 > [Kaweco - Hochwertige Schreibgeräte, Leder&Papier, Store](https://www.kaweco-pen.com)
 
 Entdecken Sie alles rund um unsere Kaweco Schreibgeräte, Serien, Papier&Leder, Accessories und Co-Branding.
+
+> [KOKUYO - Official Global Online Store](https://www.kokuyostore.com)
+
+Shop and view the latest lifestyle products & Japanese stationeries from the official KOKUYO website.KOKUYO began in 1905, since then, our organization has ...
 
 > [metacil(メタシル) メタリックカラー - サンスター文具株式会社](https://www.sun-star-st.jp/items/221206114616)
 
