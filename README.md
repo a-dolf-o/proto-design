@@ -176,6 +176,10 @@ Momax has continuously adapted and evolved to cater to your charging needs. Our 
 
 防摔手機殼的最佳選擇，犀牛盾RhinoShield防摔iPhone邊框手機殼、防摔背蓋手機殼、個人客製化手機殼、犀牛盾耐衝擊螢幕保護貼。由英國劍橋大學材料團隊開發， ...
 
+> [SUPCASE | Home of the Award-Winning UB Pro](https://supcase.com)
+
+Home of the legendary Unicorn Beetle PRO, SUPCASE offers award-winning drop protection for phones, tablets, smartwatches, MacBooks, earbuds, Nintendo Switch ...
+
 > [TORRAS: Phone Cases & Phone Cover & Cell Phone Cases](https://torraslife.com)
 
 Buying high-quality phone cases from our online store, they are meticulously crafted with the finest materials to prevent falls and scratches.
