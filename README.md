@@ -12,11 +12,13 @@ Welcome to Proto Design!
   <br>
 
   - [Backpack](#backpack)
+  - [Camera](#camera)
   - [Clothing](#clothing)
   - [Fitness](#fitness)
+  - [Game](#game)
   - [Home](#home)
   - [Outdoor](#outdoor)
-  - [Phone Accessories](#phone-accessories)
+  - [Phone](#phone)
   - [Sport](#sport)
   - [Stationery](#stationery)
   - [Technology](#technology)
@@ -58,7 +60,29 @@ BESTSELLERS · Bobby Edge Backpack · Bobby Bizz Anti-theft Backpack & Briefcase
 
 ---
 
+## Camera
+
+> [DJI - Official Website](https://www.dji.com)
+
+DJI technology empowers us to see the future of possible. Learn about our consumer drones like DJI Mavic 3 Pro, DJI Mini 4 Pro, DJI Air 3.
+
+> [Insta360 | Action Cameras | 360 Cameras | VR Cameras](https://www.insta360.com)
+
+Innovative products for creative minds. Most Popular 360 Cameras, Wide-Angle Cameras, Handheld Gimbals, Conferencing, Professional.
+
+> [Leica Camera Wetzlar – Official | International](https://leica-camera.com)
+
+Global manufacturer of high-end cameras and lenses, observation, and fine mechanical instruments and high-tech devices of the best standards in imaging ...
+
+[_back_](#table-of-contents)
+
+---
+
 ## Clothing
+
+> [Decathlon | Quality and affordable apparel & sport gear](https://www.decathlon.com)
+
+Shop our quality outdoor gear and clothing for camping, hiking and more. Check out our bikes, puffer jackets, backpacks, tents, hiking boots, rain jackets, ...
 
 > [DETERMINANT | Functional Men’s Shirts & Clothing Online Store](https://shop.detshirts.com)
 
@@ -89,6 +113,28 @@ The smallest gym in the world. Handy Gym is a flywheel technology designed for f
 > [Unitree Fitness PUMP - Professional Gym in Your Pocket](https://www.unitree.com/pump)
 
 Ultra-high integration and easy to carry. Weighs only 700 grams, rejuvenate the body anytime, anywhere.
+
+[_back_](#table-of-contents)
+
+---
+
+## Game
+
+> [Logitech | Official Online Store](https://www.logitech.com)
+
+Discover the innovative world of Logitech and shop everything MX, Keyboards, Mice, Webcams, Headsets, Software, Video Conferencing, and more.
+
+> [Nintendo Switch™ Family - Nintendo - Official Site](https://www.nintendo.com/switch)
+
+Nintendo Switch is the way to play Super Mario Bros.™ Wonder, Mario Kart™ 8 Deluxe, and more games starring Mario and friends.
+
+> [PlayStation® Official Site: Consoles, Games, Accessories & More](https://www.playstation.com)
+
+Play hundreds of incredible PS5, PS4 and classic PlayStation games, and discover epic adventures, unique indies, family favourites, and everything in between.
+
+> [Razer | For Gamers. By Gamers.](https://www.razer.com)
+
+Cutting-edge technology✓ Excellent engineering✓ Sustainable✓ Shop Razer's catalogue of headsets, laptops and tech gear for gaming, work and leisure.
 
 [_back_](#table-of-contents)
 
@@ -150,7 +196,7 @@ All available products and the best browsing experience in one place. From the m
 
 ---
 
-## Phone Accessories
+## Phone
 
 > [CASETiFY: Show Your Colors](https://www.casetify.com)
 
@@ -286,41 +332,17 @@ Manufacturer and supplier of writing, painting, drawing and creative products. �
 
 Apple Vision Pro is Apple's first spatial computer. It seamlessly blends digital content with your physical space using revolutionary technology.
 
-> [DJI - Official Website](https://www.dji.com)
-
-DJI technology empowers us to see the future of possible. Learn about our consumer drones like DJI Mavic 3 Pro, DJI Mini 4 Pro, DJI Air 3.
-
 > [Eilik – Official Energize Lab Store｜Robot Toys & Gifts](https://energizelab.com)
 
 Eilik is a new kind of robot with emotional intelligence that brings up a higher level of social interactions between humans and robots.
-
-> [Leica Camera Wetzlar – Official | International](https://leica-camera.com)
-
-Global manufacturer of high-end cameras and lenses, observation, and fine mechanical instruments and high-tech devices of the best standards in imaging ...
-
-> [Logitech | Official Online Store](https://www.logitech.com)
-
-Discover the innovative world of Logitech and shop everything MX, Keyboards, Mice, Webcams, Headsets, Software, Video Conferencing, and more.
 
 > [Meta Quest MR, VR Headsets & Accessories | Meta Store](https://www.meta.com/quest)
 
 Defy reality with Meta Quest. Our MR and VR headsets redefine digital gaming and entertainment. Learn more about Quest 3S, and explore all headsets.
 
-> [Nintendo Switch™ Family - Nintendo - Official Site](https://www.nintendo.com/switch)
-
-Nintendo Switch is the way to play Super Mario Bros.™ Wonder, Mario Kart™ 8 Deluxe, and more games starring Mario and friends.
-
 > [Nothing (international)](https://intl.nothing.tech)
 
 Here at Nothing, we're building a world where tech is fun again. Remember a time where every new product made you excited? We're bringing that back.
-
-> [PlayStation® Official Site: Consoles, Games, Accessories & More](https://www.playstation.com)
-
-Play hundreds of incredible PS5, PS4 and classic PlayStation games, and discover epic adventures, unique indies, family favourites, and everything in between.
-
-> [Razer | For Gamers. By Gamers.](https://www.razer.com)
-
-Cutting-edge technology✓ Excellent engineering✓ Sustainable✓ Shop Razer's catalogue of headsets, laptops and tech gear for gaming, work and leisure.
 
 [_back_](#table-of-contents)
 
