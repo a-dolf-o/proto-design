@@ -1,6 +1,6 @@
 # ☯ Proto Design
 
-Welcome to Proto Design!
+**Welcome to Proto Design!**
 
 <a name="table-of-contents"></a>
 
@@ -11,20 +11,20 @@ Welcome to Proto Design!
   <summary>Table of Contents</summary>
   <br>
 
-  - [Backpack](#backpack)
-  - [Camera](#camera)
-  - [Clothing](#clothing)
-  - [Fitness](#fitness)
-  - [Game](#game)
-  - [Home](#home)
-  - [Outdoor](#outdoor)
-  - [Phone](#phone)
-  - [Sport](#sport)
-  - [Stationery](#stationery)
-  - [Technology](#technology)
-  - [Transportation](#transportation)
-  - [Wallet](#wallet)
-  - [Watch](#watch)
+  - [**Backpack**](#backpack)
+  - [**Camera**](#camera)
+  - [**Clothing**](#clothing)
+  - [**Fitness**](#fitness)
+  - [**Game**](#game)
+  - [**Home**](#home)
+  - [**Outdoor**](#outdoor)
+  - [**Phone**](#phone)
+  - [**Sport**](#sport)
+  - [**Stationery**](#stationery)
+  - [**Technology**](#technology)
+  - [**Transportation**](#transportation)
+  - [**Wallet**](#wallet)
+  - [**Watch**](#watch)
 
 </details>
 
