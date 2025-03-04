@@ -36,6 +36,10 @@
 
 Discover the Airback, the world's only backpack with a built-in vacuum system. Maximize your packing space by up to 50% and travel smarter with this ...
 
+> [**Incase – Incase.com**](https://www.incase.com)
+
+Innovating the original. Designed for peace of mind with a little edge. Made with precision-cut port, button, and indicator light access, the Edge Hardshell ...
+
 > [**kingsonsprime**](https://www.kingsonsprime.com)
 
 Equipped with four powerful modular packing tools, 25 pockets and more than 15 unique features, the Tripper Bag is just the art of packing.
@@ -209,10 +213,6 @@ DEVILCASE為台灣知名手機殼製造商,旗下惡魔防摔殼年銷破萬件,
 > [**Imos: 官方網站**](https://imos.com.tw)
 
 使用與機身同為PVD ( Physical Vapor Deposition ) 物理氣相沉積塗層技術，在獨特拋光的工藝鍛造下，設計出鏡射般的原色機感，蒸鍍在不鏽鋼金屬框的立體雙窄邊上，更能耐腐蝕、 ...
-
-> [**Incase – Incase.com**](https://www.incase.com)
-
-Innovating the original. Designed for peace of mind with a little edge. Made with precision-cut port, button, and indicator light access, the Edge Hardshell ...
 
 > [**Meta Stand Pro | Adjustable Laptop Stand - ergomi design**](https://store-ergomi-design.com/products/meta-stand-ii)
 
