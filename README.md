@@ -210,6 +210,10 @@ DEVILCASE為台灣知名手機殼製造商,旗下惡魔防摔殼年銷破萬件,
 
 使用與機身同為PVD ( Physical Vapor Deposition ) 物理氣相沉積塗層技術，在獨特拋光的工藝鍛造下，設計出鏡射般的原色機感，蒸鍍在不鏽鋼金屬框的立體雙窄邊上，更能耐腐蝕、 ...
 
+> [**Incase – Incase.com**](https://www.incase.com)
+
+Innovating the original. Designed for peace of mind with a little edge. Made with precision-cut port, button, and indicator light access, the Edge Hardshell ...
+
 > [**Meta Stand Pro | Adjustable Laptop Stand - ergomi design**](https://store-ergomi-design.com/products/meta-stand-ii)
 
 Ergonomic design Flexible adjustment / Various angles from 20 to 80 degrees Magnetic design / Quick access Ultra-thin / lightweight Airflow design to reduce ...
@@ -390,13 +394,17 @@ Explore the slimmest, artist-designed minimalist wallets crafted for superior co
 
 ## Watch
 
-> [**Atowak – COBRA**](https://atowak.com/collections/cobra)
+> [**Astronomia Solar Zodiac | Jacob & Co.**](https://jacobandco.com/timepieces/astronomia-solar-zodiac)
+
+Astronomia Solar Zodiac's dial represents the 12 Zodiac signs. Its vertical movement spins in 10 minutes, bearing 4 colored, Jacob-cut gemstones.
+
+> [**Casino Tourbillon | Jacob & Co.**](https://jacobandco.com/timepieces/casino-tourbillon)
+
+Casino Tourbillon showcases a fully functional, wrist-sized roulette table. Made of rose gold and onyx, it's powered by a flying tourbillon movement.
+
+> [**COBRA – Atowak**](https://atowak.com/collections/cobra)
 
 The ATOWAK COBRA features a unique revolving satellite hour wheel. Hour indicators on three-wheel arms rotate 120˚ at a time between four sides to indicate ...
-
-> [**Atowak – TARANTULA**](https://atowak.com/collections/tarantula)
-
-TARANTULA presents a comprehensive display of ATOWAK's satellite wandering hour wheel. This structure ensures precise timekeeping while also creating a unique ...
 
 > [**Eone | The Bradley Timepiece**](https://www.eone-time.com)
 
@@ -410,17 +418,13 @@ EONIQ DESIGN official web store. We create affordable made to order custom watch
 
 A graceful, powerful, expressive dragon crafted from 18K gold, like the main components of the movement, revealing not only a full range of horological artistry ...
 
-> [**Jacob & Co. | Astronomia Solar Zodiac**](https://jacobandco.com/timepieces/astronomia-solar-zodiac)
-
-Astronomia Solar Zodiac's dial represents the 12 Zodiac signs. Its vertical movement spins in 10 minutes, bearing 4 colored, Jacob-cut gemstones.
-
-> [**Jacob & Co. | Casino Tourbillon**](https://jacobandco.com/timepieces/casino-tourbillon)
-
-Casino Tourbillon showcases a fully functional, wrist-sized roulette table. Made of rose gold and onyx, it's powered by a flying tourbillon movement.
-
 > [**Konstantin Chaykin. Russian watches**](https://chaykin.ru)
 
 Основана в 2003 году Константином Чайкиным, изобретателем и часовщиком из России. Единственный часовой бренд, который полностью производит в России ...
+
+> [**TARANTULA – Atowak**](https://atowak.com/collections/tarantula)
+
+TARANTULA presents a comprehensive display of ATOWAK's satellite wandering hour wheel. This structure ensures precise timekeeping while also creating a unique ...
 
 [_back_](#table-of-contents)
 
