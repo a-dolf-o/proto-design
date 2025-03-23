@@ -11,22 +11,67 @@
   <summary>Table of Contents</summary>
   <br>
 
+  - [**Appliance**](#appliance)
+  - [**Automotive**](#automotive)
   - [**Backpack**](#backpack)
   - [**Camera**](#camera)
   - [**Clothing**](#clothing)
+  - [**Electronic**](#electronic)
   - [**Fitness**](#fitness)
   - [**Game**](#game)
-  - [**Home**](#home)
+  - [**Indoor**](#indoor)
   - [**Outdoor**](#outdoor)
-  - [**Phone**](#phone)
-  - [**Sport**](#sport)
+  - [**Sports**](#sports)
   - [**Stationery**](#stationery)
   - [**Technology**](#technology)
-  - [**Transportation**](#transportation)
   - [**Wallet**](#wallet)
   - [**Watch**](#watch)
 
 </details>
+
+---
+
+## Appliance
+
+> [**Evapolar - Cool Yourself With Portable Evaporative Air Coolers**](https://evapolar.com)
+
+Evapolar is a family of personal evaporative air coolers.
+
+> [**Future Lab. 未來實驗室，拉近與未來的距離**](https://futurelab.tw)
+
+未來實驗室，為了創造更好的未來而不斷的實驗。 我們走在所有人的最前面，擁有著不放棄也不退縮的精神。 我們不只是設計產品，而是將自己想說的話融入產品。 Future Lab.
+
+> [**Gingko Design**](https://gingkodesign.com)
+
+OUR COLLECTIONS · Sustainable Audio · Mage See-Through Bluetooth Speaker · Drum Light Bluetooth Speaker · Mini Halo One Bluetooth Speaker · Sculptural Lighting.
+
+> [**Stryv**](https://stryv.co)
+
+Hassle-free hair and grooming routines without the hefty price tag. Stryv with us one ritual at a time.
+
+> [**SwitchBot Official Website - Your Simple Switch to a Smart Home**](https://www.switch-bot.com)
+
+Interested in home automation? Use our products to control existing home appliances from your smartphone or using voice commands to make life smarter.
+
+[_back_](#table-of-contents)
+
+---
+
+## Automotive
+
+> [**Cybertruck | Tesla**](https://www.tesla.com/cybertruck)
+
+Built for any adventure, Cybertruck has a durable exterior, spacious interior and technological capabilities so you can pack up your gear and hit the road.
+
+> [**Motocompacto | Honda**](https://motocompacto.honda.com)
+
+Honda believes the future of clean transportation is already here and powerfully revolutionized with the Motocompacto. Built on our legacy of maximizing ...
+
+> [**TATAMEL BIKE（タタメルバイク） | 株式会社ICOMA**](https://www.icoma.co.jp)
+
+たたんでハコべる電動バイク「ICOMA TATAMEL BIKE 」を企画開発するハードウェアスタートアップ、株式会社ICOMAの公式サイトです。
+
+[_back_](#table-of-contents)
 
 ---
 
@@ -36,7 +81,7 @@
 
 Discover the Airback, the world's only backpack with a built-in vacuum system. Maximize your packing space by up to 50% and travel smarter with this ...
 
-> [**Incase – Incase.com**](https://www.incase.com)
+> [**Incase**](https://www.incase.com)
 
 Innovating the original. Designed for peace of mind with a little edge. Made with precision-cut port, button, and indicator light access, the Edge Hardshell ...
 
@@ -56,7 +101,7 @@ All-In-One Travel Solution. Make traveling twice as easy with our versatile gear
 
 Tramora: Redefining travel convenience. Our innovative carry-on luggage is designed to simplify your travels with features such as laptop stand / food tray, ...
 
-> [**XD Design: Home**](https://xd-design.com)
+> [**XD Design**](https://xd-design.com)
 
 BESTSELLERS · Bobby Edge Backpack · Bobby Bizz Anti-theft Backpack & Briefcase · Bobby Soft Backpack · Bobby Hero Regular Backpack. Back ...
 
@@ -69,6 +114,10 @@ BESTSELLERS · Bobby Edge Backpack · Bobby Bizz Anti-theft Backpack & Briefcase
 > [**DJI - Official Website**](https://www.dji.com)
 
 DJI technology empowers us to see the future of possible. Learn about our consumer drones like DJI Mavic 3 Pro, DJI Mini 4 Pro, DJI Air 3.
+
+> [**GoPro | Official Camera of Fun**](https://gopro.com)
+
+Discover the world's most versatile action cameras + accessories. Possibilities are endless with waterproof, live streaming, stabilizing features + more.
 
 > [**Insta360 | Action Cameras | 360 Cameras | VR Cameras**](https://www.insta360.com)
 
@@ -108,99 +157,7 @@ Latest trends in clothing for women, men & kids at ZARA online. Find new arrival
 
 ---
 
-## Fitness
-
-> [**Handy Gym flywheel technology - Train whenever and wherever you want**](https://handygymfit.com)
-
-The smallest gym in the world. Handy Gym is a flywheel technology designed for for elite athletes, physiotherapists and professional trainers.
-
-> [**Unitree Fitness PUMP - Professional Gym in Your Pocket**](https://www.unitree.com/pump)
-
-Ultra-high integration and easy to carry. Weighs only 700 grams, rejuvenate the body anytime, anywhere.
-
-[_back_](#table-of-contents)
-
----
-
-## Game
-
-> [**Logitech | Official Online Store**](https://www.logitech.com)
-
-Discover the innovative world of Logitech and shop everything MX, Keyboards, Mice, Webcams, Headsets, Software, Video Conferencing, and more.
-
-> [**Nintendo Switch™ Family - Nintendo - Official Site**](https://www.nintendo.com/switch)
-
-Nintendo Switch is the way to play Super Mario Bros.™ Wonder, Mario Kart™ 8 Deluxe, and more games starring Mario and friends.
-
-> [**PlayStation® Official Site: Consoles, Games, Accessories & More**](https://www.playstation.com)
-
-Play hundreds of incredible PS5, PS4 and classic PlayStation games, and discover epic adventures, unique indies, family favourites, and everything in between.
-
-> [**Razer | For Gamers. By Gamers.**](https://www.razer.com)
-
-Cutting-edge technology✓ Excellent engineering✓ Sustainable✓ Shop Razer's catalogue of headsets, laptops and tech gear for gaming, work and leisure.
-
-[_back_](#table-of-contents)
-
----
-
-## Home
-
-> [**Daiso**](https://www.daiso-sangyo.co.jp)
-
-We deliver new discoveries and fun experiences through books and miscellaneous goods. Daiso Products Kansai To achieve impressive prices and impressive quality.
-
-> [**Evapolar - Cool Yourself With Portable Evaporative Air Coolers**](https://evapolar.com)
-
-Evapolar is a family of personal evaporative air coolers.
-
-> [**Future Lab. 未來實驗室，拉近與未來的距離**](https://futurelab.tw)
-
-未來實驗室，為了創造更好的未來而不斷的實驗。 我們走在所有人的最前面，擁有著不放棄也不退縮的精神。 我們不只是設計產品，而是將自己想說的話融入產品。 Future Lab.
-
-> [**Gingko**](https://gingkodesign.com)
-
-OUR COLLECTIONS · Sustainable Audio · Mage See-Through Bluetooth Speaker · Drum Light Bluetooth Speaker · Mini Halo One Bluetooth Speaker · Sculptural Lighting.
-
-> [**IKEA | Hej! Welcome to IKEA Global**](https://www.ikea.com)
-
-Furniture, home accessories, design ideas and inspiration for big dreams and small budgets. A better everyday life begins at home!
-
-> [**MUJI**](https://www.muji.com)
-
-MUJI offers a wide variety of good quality items from stationery to household items and apparel.
-
-> [**Stryv**](https://stryv.co)
-
-Hassle-free hair and grooming routines without the hefty price tag. Stryv with us one ritual at a time.
-
-> [**SwitchBot Official Website - Your Simple Switch to a Smart Home**](https://www.switch-bot.com)
-
-Interested in home automation? Use our products to control existing home appliances from your smartphone or using voice commands to make life smarter.
-
-[_back_](#table-of-contents)
-
----
-
-## Outdoor
-
-> [**ROAV Eyewear**](https://roaveyewear.com)
-
-All our frames come with our patented micro hinge designed to be screwless, lightweight and can take a beating!
-
-> [**TIC Travel Bottles V2.0**](https://www.instagram.com/tic_design)
-
-Smart Solution to travel with Skin and Shower Products.
-
-> [**Victorinox International | Victorinox Homepage**](https://www.victorinox.com)
-
-All available products and the best browsing experience in one place. From the makers of the original swiss army knife. Established 1884.
-
-[_back_](#table-of-contents)
-
----
-
-## Phone
+## Electronic
 
 > [**CASETiFY: Show Your Colors**](https://www.casetify.com)
 
@@ -242,7 +199,79 @@ Urban Armor Gear produces the most rugged, lightweight, cases that are drop test
 
 ---
 
-## Sport
+## Fitness
+
+> [**Handy Gym flywheel technology - Train whenever and wherever you want**](https://handygymfit.com)
+
+The smallest gym in the world. Handy Gym is a flywheel technology designed for for elite athletes, physiotherapists and professional trainers.
+
+> [**Unitree Fitness PUMP - Professional Gym in Your Pocket**](https://www.unitree.com/pump)
+
+Ultra-high integration and easy to carry. Weighs only 700 grams, rejuvenate the body anytime, anywhere.
+
+[_back_](#table-of-contents)
+
+---
+
+## Game
+
+> [**Logitech | Official Online Store**](https://www.logitech.com)
+
+Discover the innovative world of Logitech and shop everything MX, Keyboards, Mice, Webcams, Headsets, Software, Video Conferencing, and more.
+
+> [**Nintendo Switch™ Family - Nintendo - Official Site**](https://www.nintendo.com/switch)
+
+Nintendo Switch is the way to play Super Mario Bros.™ Wonder, Mario Kart™ 8 Deluxe, and more games starring Mario and friends.
+
+> [**PlayStation® Official Site: Consoles, Games, Accessories & More**](https://www.playstation.com)
+
+Play hundreds of incredible PS5, PS4 and classic PlayStation games, and discover epic adventures, unique indies, family favourites, and everything in between.
+
+> [**Razer | For Gamers. By Gamers.**](https://www.razer.com)
+
+Cutting-edge technology✓ Excellent engineering✓ Sustainable✓ Shop Razer's catalogue of headsets, laptops and tech gear for gaming, work and leisure.
+
+[_back_](#table-of-contents)
+
+---
+
+## Indoor
+
+> [**Daiso**](https://www.daiso-sangyo.co.jp)
+
+We deliver new discoveries and fun experiences through books and miscellaneous goods. Daiso Products Kansai To achieve impressive prices and impressive quality.
+
+> [**IKEA | Hej! Welcome to IKEA Global**](https://www.ikea.com)
+
+Furniture, home accessories, design ideas and inspiration for big dreams and small budgets. A better everyday life begins at home!
+
+> [**MUJI**](https://www.muji.com)
+
+MUJI offers a wide variety of good quality items from stationery to household items and apparel.
+
+[_back_](#table-of-contents)
+
+---
+
+## Outdoor
+
+> [**ROAV Eyewear**](https://roaveyewear.com)
+
+All our frames come with our patented micro hinge designed to be screwless, lightweight and can take a beating!
+
+> [**TIC Travel Bottles V2.0**](https://www.instagram.com/tic_design)
+
+Smart Solution to travel with Skin and Shower Products.
+
+> [**Victorinox International**](https://www.victorinox.com)
+
+All available products and the best browsing experience in one place. From the makers of the original swiss army knife. Established 1884.
+
+[_back_](#table-of-contents)
+
+---
+
+## Sports
 
 > [**adidas | Sneakers & Sportswear**](https://www.adidas.com)
 
@@ -265,10 +294,6 @@ Give the gift of movement. Shop our high-performance gifts for runners, hikers a
 ---
 
 ## Stationery
-
-> [**Am-smart Tools**](https://am-smart.com)
-
-Hand tool, DIY, screwdriver, Sanding, polishing, engraving, drilling, smart, motion, sports, outdoor, actitivies.
 
 > [**DelGuard デルガード｜ゼブラ株式会社**](https://www.zebra.co.jp/pro/del_guard)
 
@@ -322,9 +347,9 @@ The Original Anchor Bookmark. Made for journaling, reading, cookbooks & studying
 
 株式会社パイロットコーポレーションは、総合筆記具メーカーとしてお客様に高機能で使いやすい製品をご提供しています。当サイトでは、万年筆、ボールペン、シャープ ...
 
-> [**STAEDTLER | Welcome to STAEDTLER**](https://www.staedtler.com)
+> [**STAEDTLER**](https://www.staedtler.com)
 
-Manufacturer and supplier of writing, painting, drawing and creative products. ✓ Products ✓ Inspiration ✓ Guides ✓ About STAEDTLER ✓ Contact.
+For more than 180 years, we have been making it our mission to inspire people of all ages across the globe, helping them discover the joy of being creative.
 
 [_back_](#table-of-contents)
 
@@ -332,11 +357,15 @@ Manufacturer and supplier of writing, painting, drawing and creative products. �
 
 ## Technology
 
+> [**Am-smart Tools**](https://am-smart.com)
+
+Hand tool, DIY, screwdriver, Sanding, polishing, engraving, drilling, smart, motion, sports, outdoor, actitivies.
+
 > [**Apple Vision Pro**](https://www.apple.com/apple-vision-pro)
 
 Apple Vision Pro is Apple's first spatial computer. It seamlessly blends digital content with your physical space using revolutionary technology.
 
-> [**Eilik – Official Energize Lab Store｜Robot Toys & Gifts**](https://energizelab.com)
+> [**Eilik: A little Companion Bot with Personality & Character – Energize Lab**](https://energizelab.com)
 
 Eilik is a new kind of robot with emotional intelligence that brings up a higher level of social interactions between humans and robots.
 
@@ -347,24 +376,6 @@ Defy reality with Meta Quest. Our MR and VR headsets redefine digital gaming and
 > [**Nothing (international)**](https://intl.nothing.tech)
 
 Here at Nothing, we're building a world where tech is fun again. Remember a time where every new product made you excited? We're bringing that back.
-
-[_back_](#table-of-contents)
-
----
-
-## Transportation
-
-> [**Cybertruck | Tesla**](https://www.tesla.com/cybertruck)
-
-Built for any adventure, Cybertruck has a durable exterior, spacious interior and technological capabilities so you can pack up your gear and hit the road.
-
-> [**Motocompacto | Honda**](https://motocompacto.honda.com)
-
-Honda believes the future of clean transportation is already here and powerfully revolutionized with the Motocompacto. Built on our legacy of maximizing ...
-
-> [**TATAMEL BIKE（タタメルバイク） | 株式会社ICOMA**](https://www.icoma.co.jp)
-
-たたんでハコべる電動バイク「ICOMA TATAMEL BIKE 」を企画開発するハードウェアスタートアップ、株式会社ICOMAの公式サイトです。
 
 [_back_](#table-of-contents)
 
@@ -410,7 +421,7 @@ The ATOWAK COBRA features a unique revolving satellite hour wheel. Hour indicato
 
 Eone created a sleek, modern watch that more people can use — and in more ways. Designed for touch when you can't easily use sight: during a meeting, in a movie ...
 
-> [**EONIQ Design – EONIQ DESIGN**](https://eoniqdesign.co)
+> [**EONIQ Design**](https://eoniqdesign.co)
 
 EONIQ DESIGN official web store. We create affordable made to order custom watches powered by high quality Japanese movements.
 
