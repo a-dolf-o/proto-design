@@ -16,6 +16,7 @@
   - [**Backpack**](#backpack)
   - [**Camera**](#camera)
   - [**Clothing**](#clothing)
+  - [**Coin**](#coin)
   - [**Electronic**](#electronic)
   - [**Fitness**](#fitness)
   - [**Game**](#game)
@@ -152,6 +153,20 @@ Seamless Down Parka. The stitch-free design prevents cold wind from sneaking in.
 > [**ZARA International | New Collection Online**](https://www.zara.com)
 
 Latest trends in clothing for women, men & kids at ZARA online. Find new arrivals, fashion catalogs, collections & lookbooks every week.
+
+[_back_](#table-of-contents)
+
+---
+
+## Coin
+
+> [**Harry Potter 2022 UK 2oz Gold Proof Coin | The Royal Mint**](https://www.royalmint.com/collect/archive/2022/harry-potter-2022-2oz-gold-proof-coin)
+
+Designed by Jim Kay and Ffion Gwillim, the portrait of Harry Potter on this UK coin is also available on colour-printed editions in the range. CELEBRATE ...
+
+> [**Moon Sky: Raven – 1 oz. Fine Silver Coin | The Royal Canadian Mint**](https://www.mint.ca/en/shop/coins/2025/moon-sky-raven-1-oz-fine-silver-coin)
+
+This coin's reverse design simultaneously honours the Raven of legends while presenting a new, original take: here, the engraved raven is a representation of ...
 
 [_back_](#table-of-contents)
 
