@@ -38,10 +38,6 @@
 
 Evapolar is a family of personal evaporative air coolers.
 
-> [**Future Lab. 未來實驗室，拉近與未來的距離**](https://futurelab.tw)
-
-未來實驗室，為了創造更好的未來而不斷的實驗。 我們走在所有人的最前面，擁有著不放棄也不退縮的精神。 我們不只是設計產品，而是將自己想說的話融入產品。 Future Lab.
-
 > [**Gingko Design**](https://gingkodesign.com)
 
 OUR COLLECTIONS · Sustainable Audio · Mage See-Through Bluetooth Speaker · Drum Light Bluetooth Speaker · Mini Halo One Bluetooth Speaker · Sculptural Lighting.
